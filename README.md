@@ -10,5 +10,7 @@ git clone https://github.com/MiG-21DC/chess.git
 
 #2 Running main function:
 
+cd chess
+
 python chess.py
 
