@@ -97,6 +97,7 @@ def main():
             break
 
     print 'Calculation end, success %d, failed %d' % (success_data, unsuccess_approarh)
+    print 'The result is stored in %s' % filename
     time_end = time.time()
     print 'Used %f seconds' % (time_end - time_start)
     csvfile.close()
