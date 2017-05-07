@@ -5,8 +5,10 @@
 # Running Procedure
 
 #1 Clone program from git:
+
 git clone https://github.com/MiG-21DC/chess.git
 
 #2 Running main function:
+
 python chess.py
 
